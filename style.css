@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #444;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 1em;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h2{
+    color: rgb(5, 74, 5);
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p{
+    color: black;
+}
+
+#poem{
+    font-style: italic;
+}
+
+cite{
+    color: red;
+    font-style: italic;
+}
+ 
+#heading{
+    color: rgb(224, 224, 199);
+    font-style: italic;
+    font-size: 45px;
+    background-image: url(https://www.pixground.com/wp-content/uploads/2023/07/Dark-Red-Abstract-Layers-AI-Generated-4K-Wallpaper.jpg);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+
+}
+
